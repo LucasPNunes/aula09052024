@@ -1,0 +1,11 @@
+C:\DevC\AmericanDream\AmericanDream\bin\Debug\AmericanDream.exe.config
+C:\DevC\AmericanDream\AmericanDream\bin\Debug\AmericanDream.exe
+C:\DevC\AmericanDream\AmericanDream\bin\Debug\AmericanDream.pdb
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.csproj.AssemblyReference.cache
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.csproj.SuggestedBindingRedirects.cache
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.Form1.resources
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.Properties.Resources.resources
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.csproj.GenerateResource.cache
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.csproj.CoreCompileInputs.cache
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.exe
+C:\DevC\AmericanDream\AmericanDream\obj\Debug\AmericanDream.pdb
